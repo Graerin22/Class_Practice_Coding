@@ -1,7 +1,5 @@
-package hotel2dRoomReservationSystem;
-
 import java.util.Scanner;
-public class GealonCode {
+public class Hotel2dRoomReservationSystem {
 	public static void showRooms(int[][] rooms) {
 		int row = rooms.length, col = rooms[0].length;
 		System.out.println("=== HOTEL ROOMS ===");
